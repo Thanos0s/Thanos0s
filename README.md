@@ -18,9 +18,8 @@
 ⚙️ Tools: Git, GitHub, VS Code
 
 ---
+## 🐍 Contribution Snake
+![snake](https://github.com/Thanos0s/Thanos0s/blob/output/github-contribution-grid-snake.svg)
 
-# ⚡ 4. OPTIONAL (LEVEL UP 🔥)
-
-### Add typing animation at top:
-```markdown
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Building+cool+things;Always+learning)
+## 🟡 Pacman Contribution Graph
+![pacman](https://github.com/Thanos0s/Thanos0s/blob/output/pacman-contribution-graph.svg)
