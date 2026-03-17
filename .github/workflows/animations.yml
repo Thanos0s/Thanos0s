@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -15,14 +12,9 @@ jobs:
       contents: write
 
     steps:
-      # 🟢 Generate Pacman Graph
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Thanos0s
-          theme: github-dark
-          color_snake: '#00ffcc'
-          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'
+      # ✅ Checkout repo (IMPORTANT)
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       # 🐍 Generate Snake Animation
       - name: Generate Snake
@@ -33,7 +25,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 🚀 Push everything to output branch
+      # 🟡 Generate Pacman (NO customization allowed)
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Thanos0s
+
+      # 🚀 Push to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
