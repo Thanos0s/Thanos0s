@@ -24,7 +24,7 @@ txt
 <h2 align="center">🏅 My Holopin Badges</h2>
 
 <p align="center">
-  <a href="https://holopin.io/hacktoberfest2025/userbadge/cmgs0ca6g006nl204ynw5m15j">
-    <img src="https://holopin.me/cmgs0ca6g006nl204ynw5m15j" />
+  <a href="https://holopin.io/@thanos0s">
+    <img src="https://holopin.me/thanos0s" alt="Holopin Badges"/>
   </a>
 </p>
