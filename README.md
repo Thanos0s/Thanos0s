@@ -22,6 +22,13 @@ txt
 ![pacman](https://raw.githubusercontent.com/Thanos0s/Thanos0s/output/pacman-contribution-graph.svg)
 
 <h2 align="center">🎃 Hacktoberfest 2025 Badges</h2>
+<h2 align="center">🎃 Hacktoberfest 2025 Badges</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@thanos0s">
+    <img src="https://holopin.me/thanos0s" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgs0ca6g006nl204ynw5m15j">
