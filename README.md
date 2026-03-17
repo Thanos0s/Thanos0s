@@ -12,14 +12,11 @@
 ---
 
 ## 🛠️ Tech Stack
-```txt
+txt
 💡 Languages: Python, JavaScript, C++
 🌐 Web: HTML, CSS, React
 ⚙️ Tools: Git, GitHub, VS Code
 
----
-## 🐍 Contribution Snake
-![snake](https://github.com/Thanos0s/Thanos0s/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Thanos0s/Thanos0s/output/github-contribution-grid-snake.svg)
 
-## 🟡 Pacman Contribution Graph
-![pacman](https://github.com/Thanos0s/Thanos0s/blob/output/pacman-contribution-graph.svg)
+![pacman](https://raw.githubusercontent.com/Thanos0s/Thanos0s/output/pacman-contribution-graph.svg)
