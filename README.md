@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-- Delhi, India -<br>🎯 Specializing in AI-ML & Blockchain -<br>💼 Currently Open to Opportunities -<br>🚀 Passionate about exploring new things -<br>🌍 Based in NewDelhi
+🎯 Specializing in AI-ML & Blockchain -<br>💼 Currently Open to Opportunities -<br>🚀 Passionate about exploring new things -<br>🌍 Based in NewDelhi
 
 
 # 💻 Tech Stack:
