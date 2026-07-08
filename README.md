@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
--🏫 Studying Btech at Abes engineering, Delhi, India -<br>🎯 Specializing in Data Science & Blockchain -<br>💼 Currently Open to Opportunities -<br>🚀 Passionate about exploring new things -<br>🌍 Based in NewDelhi
+- Delhi, India -<br>🎯 Specializing in AI-ML & Blockchain -<br>💼 Currently Open to Opportunities -<br>🚀 Passionate about exploring new things -<br>🌍 Based in NewDelhi
 
 
 # 💻 Tech Stack:
